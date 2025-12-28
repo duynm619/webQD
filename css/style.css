@@ -71,6 +71,7 @@ body {
 .nav-links a {
     display: block;
     text-align: center;
+    align-content: center;
 
     background: #a00000;
     color: #fff;
